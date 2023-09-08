@@ -1735,7 +1735,7 @@
           (reference "D?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "D10") (unit 1)
         )
@@ -1790,7 +1790,7 @@
     (pin "1" (uuid d7c1d325-bea7-4038-8562-9a43ccbdc3b3))
     (pin "2" (uuid 03ec2ed7-512e-40b6-a79d-538aa643c90e))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "RV4") (unit 1)
         )
@@ -1840,7 +1840,7 @@
     (pin "1" (uuid d52c1c96-0d94-4e1c-893a-4823dc4e5472))
     (pin "2" (uuid 87561a2f-a458-4177-9e10-0845fe528f08))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R8") (unit 1)
         )
@@ -1890,7 +1890,7 @@
     (pin "1" (uuid ef1b9edf-ec82-4ded-b393-ce319bf61238))
     (pin "2" (uuid a37c8be6-ef54-4e63-9d67-2265258f1051))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R14") (unit 1)
         )
@@ -1941,7 +1941,7 @@
     (pin "2" (uuid c8f2243b-5ec5-4144-9889-40a27711abec))
     (pin "3" (uuid e13263bd-1be4-4f7c-bee0-0469ac965f0c))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "D3") (unit 1)
         )
@@ -1971,7 +1971,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "#PWR03") (unit 1)
         )
@@ -2026,7 +2026,7 @@
     (pin "1" (uuid 68bca53e-159d-47fc-99a3-f0d3dfcf2674))
     (pin "2" (uuid 348e2a86-7c29-4f04-b0e4-2eba3eafef54))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "J4") (unit 1)
         )
@@ -2081,7 +2081,7 @@
           (reference "D?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "D7") (unit 1)
         )
@@ -2136,7 +2136,7 @@
     (pin "1" (uuid 1b5751e5-2ffc-4d7d-9ad3-acfacc0a0a90))
     (pin "2" (uuid a5b9a0f6-a186-40af-a6ff-ce86cb6d3fe9))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R15") (unit 1)
         )
@@ -2188,7 +2188,7 @@
           (reference "C?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "C5") (unit 1)
         )
@@ -2243,7 +2243,7 @@
     (pin "1" (uuid 30fbbde2-b5c3-4054-aa96-5f32db156785))
     (pin "2" (uuid 6d0c8840-d21b-4af8-842c-2fdf82339842))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "C8") (unit 1)
         )
@@ -2294,7 +2294,7 @@
     (pin "2" (uuid 0f97b40d-0bb8-4f12-9e74-b41f7886c38e))
     (pin "3" (uuid 317b295a-7869-4594-8adc-2a6ff974ebeb))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "D9") (unit 1)
         )
@@ -2319,7 +2319,7 @@
     )
     (pin "1" (uuid 11b3e916-8ca6-4fbb-8b44-30b1c1266672))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "#FLG01") (unit 1)
         )
@@ -2374,7 +2374,7 @@
           (reference "R?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R1") (unit 1)
         )
@@ -2434,7 +2434,7 @@
           (reference "R?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R16") (unit 1)
         )
@@ -2489,7 +2489,7 @@
     (pin "1" (uuid 3468b263-b235-4b80-8d0c-77b3398f547a))
     (pin "2" (uuid 09a9cc83-fb88-443b-a12f-b2c708955a80))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R9") (unit 1)
         )
@@ -2539,7 +2539,7 @@
     (pin "1" (uuid e6136590-2050-41e1-b38e-d36b42c58dc2))
     (pin "2" (uuid 3c17eb21-ed9f-44f0-99b8-760ad067e377))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R4") (unit 1)
         )
@@ -2569,7 +2569,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "#PWR04") (unit 1)
         )
@@ -2604,7 +2604,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "#PWR09") (unit 1)
         )
@@ -2664,7 +2664,7 @@
           (reference "R?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R12") (unit 1)
         )
@@ -2724,7 +2724,7 @@
           (reference "R?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R11") (unit 1)
         )
@@ -2779,7 +2779,7 @@
     (pin "1" (uuid 2b3276eb-8ffb-4bdb-9fe5-d922dceccb3f))
     (pin "2" (uuid 44825fa8-1d9e-4dd1-a39d-0f7d20f8d597))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "C6") (unit 1)
         )
@@ -2834,7 +2834,7 @@
           (reference "D?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "D2") (unit 1)
         )
@@ -2889,7 +2889,7 @@
     (pin "1" (uuid 93cb35f1-65dc-45c5-b232-99fc037ebb63))
     (pin "2" (uuid be6b0960-2d8b-42f1-a699-90175bd56188))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "RV1") (unit 1)
         )
@@ -2941,7 +2941,7 @@
           (reference "C?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "C7") (unit 1)
         )
@@ -2974,7 +2974,7 @@
     (pin "3" (uuid 6651b2e4-55c0-497c-9a5d-160e2e8016c0))
     (pin "4" (uuid 7b70b2a4-1dd1-49b8-9bcd-22812f440ee7))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "J3") (unit 1)
         )
@@ -3004,7 +3004,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "#PWR07") (unit 1)
         )
@@ -3060,7 +3060,7 @@
     (pin "2" (uuid ac41c604-4f67-452d-a3c1-51f9131a0f49))
     (pin "3" (uuid 309af482-27bd-45ab-9088-c369cf22c987))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "D12") (unit 1)
         )
@@ -3110,7 +3110,7 @@
     (pin "1" (uuid 0def620e-4315-4ee1-994f-85369d1cef6b))
     (pin "2" (uuid 1e10353e-47b6-48fa-a620-4979d62f39ca))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R10") (unit 1)
         )
@@ -3165,7 +3165,7 @@
           (reference "D?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "D8") (unit 1)
         )
@@ -3200,7 +3200,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "#PWR01") (unit 1)
         )
@@ -3259,7 +3259,7 @@
     (pin "5" (uuid e7f41cdb-af3b-49b5-bc1b-e447aae184ad))
     (pin "6" (uuid d9d65b82-c993-4440-b0b6-e248badfe39f))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "U3") (unit 1)
         )
@@ -3289,7 +3289,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "#PWR02") (unit 1)
         )
@@ -3324,7 +3324,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "#PWR05") (unit 1)
         )
@@ -3384,7 +3384,7 @@
           (reference "R?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R2") (unit 1)
         )
@@ -3443,7 +3443,7 @@
     (pin "5" (uuid 377bc705-ca40-4db4-b225-3e25c9326110))
     (pin "6" (uuid 5148fa7c-1caa-479d-a68a-ba6636d1702e))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "U1") (unit 1)
         )
@@ -3493,7 +3493,7 @@
     (pin "1" (uuid f344f73e-8cb8-4efa-8035-cf432e98e2e6))
     (pin "2" (uuid 528a4cd3-de0f-45c9-8048-79941cffdfcb))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R5") (unit 1)
         )
@@ -3548,7 +3548,7 @@
           (reference "R?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R7") (unit 1)
         )
@@ -3605,7 +3605,7 @@
           (reference "C?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "C3") (unit 1)
         )
@@ -3664,7 +3664,7 @@
     (pin "5" (uuid 9b9a4e1b-d4c6-4fe2-ad27-ad0c3d0ab216))
     (pin "6" (uuid 32f5b867-aebe-4039-ac77-c28ae2021868))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "U2") (unit 1)
         )
@@ -3714,7 +3714,7 @@
     (pin "1" (uuid 51643164-a6ab-4035-8c4d-e041389402ee))
     (pin "2" (uuid 697d5369-8ac6-4c8c-984f-40e6c050baf1))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R18") (unit 1)
         )
@@ -3764,7 +3764,7 @@
     (pin "1" (uuid d375e581-0e8a-4730-9739-aef0d3149688))
     (pin "2" (uuid 452fd323-57ec-499f-94fd-8ff5f64ab29f))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R3") (unit 1)
         )
@@ -3815,7 +3815,7 @@
     (pin "2" (uuid 91c70688-e197-49b9-aad5-83c75979b0f1))
     (pin "3" (uuid ceb22e69-2cdf-4209-8b6e-2fec44cda1ec))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "D6") (unit 1)
         )
@@ -3867,7 +3867,7 @@
           (reference "C?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "C1") (unit 1)
         )
@@ -3902,7 +3902,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "#PWR08") (unit 1)
         )
@@ -3957,7 +3957,7 @@
     (pin "1" (uuid e288f0d8-56c7-4aaa-ac27-6e1041b12bc7))
     (pin "2" (uuid 9c26dfba-b989-44f6-800e-848683164899))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R13") (unit 1)
         )
@@ -4007,7 +4007,7 @@
     (pin "1" (uuid e3129940-d935-4c8c-9497-9988a191e243))
     (pin "2" (uuid 37da1814-b43e-47e6-bc1e-d679ec26bf5f))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R20") (unit 1)
         )
@@ -4057,7 +4057,7 @@
     (pin "1" (uuid 61578c1a-34dd-45a4-811e-0a332fb2ea3d))
     (pin "2" (uuid c6805c4a-f285-46fb-b030-25b1707dbfb0))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "C4") (unit 1)
         )
@@ -4107,7 +4107,7 @@
     (pin "1" (uuid 4d316999-a704-4b64-a5a1-0df661d84f1a))
     (pin "2" (uuid da26cfee-45e7-4da5-a981-3853caed4078))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R19") (unit 1)
         )
@@ -4157,7 +4157,7 @@
     (pin "1" (uuid 2892ffab-0666-4f8d-a44a-e039208cb90b))
     (pin "2" (uuid 0facac4e-3d92-4d42-b796-95ce3dac9a17))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "RV3") (unit 1)
         )
@@ -4212,7 +4212,7 @@
           (reference "R?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R6") (unit 1)
         )
@@ -4267,7 +4267,7 @@
     (pin "1" (uuid a1315e9c-92b7-4ec0-9ca1-cc2cc9495118))
     (pin "2" (uuid 74dda187-04e0-4e59-9eaa-b9f7d20f2290))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "J2") (unit 1)
         )
@@ -4322,7 +4322,7 @@
           (reference "R?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "R17") (unit 1)
         )
@@ -4382,7 +4382,7 @@
           (reference "D?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "D1") (unit 1)
         )
@@ -4437,7 +4437,7 @@
     (pin "1" (uuid 505ca379-cc1f-4d39-959f-89432c99bb6d))
     (pin "2" (uuid 76f4f608-85e2-41a7-ade2-28e2fffb38b4))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "RV2") (unit 1)
         )
@@ -4492,7 +4492,7 @@
           (reference "D?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "D5") (unit 1)
         )
@@ -4547,7 +4547,7 @@
     (pin "1" (uuid 289b9d65-0753-4691-8b2d-8d6b292a090c))
     (pin "2" (uuid f6d8c46b-6445-49de-b294-fa13eeec4685))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "C2") (unit 1)
         )
@@ -4575,7 +4575,7 @@
     (pin "3" (uuid bff4d118-b200-4d2d-a096-5e7915b35d36))
     (pin "4" (uuid eebeb84d-e2b4-404d-8c11-a8d00c3e2671))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "J1") (unit 1)
         )
@@ -4630,7 +4630,7 @@
           (reference "D?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "D4") (unit 1)
         )
@@ -4690,7 +4690,7 @@
           (reference "D?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "D11") (unit 1)
         )
@@ -4749,7 +4749,7 @@
     (pin "5" (uuid bedb0ade-e991-4e99-9038-5a18c62a6d21))
     (pin "6" (uuid da1ed328-2fb9-4c12-8f85-710cbff23ccd))
     (instances
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "U4") (unit 1)
         )
@@ -4779,7 +4779,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "dc-ac-8ch-v1"
+      (project "dc-ac-4ch-v1"
         (path "/a45db9f0-07f1-4f25-a2b6-e855699177ca"
           (reference "#PWR06") (unit 1)
         )
